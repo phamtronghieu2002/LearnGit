@@ -1,0 +1,4 @@
+/*
+   main_component.js
+
+*/
