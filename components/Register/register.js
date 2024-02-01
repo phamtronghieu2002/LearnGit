@@ -1,4 +1,4 @@
 /*
-    this is register compoenent
-    
+    this is register compoenent haha
+
 */
