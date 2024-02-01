@@ -1,0 +1,4 @@
+/*
+    this is register compoenent
+    
+*/
